@@ -3,3 +3,4 @@ node_modules
 **/db/
 .env
 05-restserver/
+08-super-coffee/
